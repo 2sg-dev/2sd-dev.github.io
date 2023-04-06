@@ -1,1 +1,1 @@
-# 2sd-dev.github.io
+www.2sg.dev
